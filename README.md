@@ -1,14 +1,5 @@
 # nehe-webgl
 
-A Clojure library designed to ... well, that part is up to you.
+[Siegfried Ehret](https://github.com/SiegfriedEhret/) wrote tremendous [posts](https://ehret.me/webgl-experiment-part-1-your-first-polygons/) about WebGL with BABYLONjs. 
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2013 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+I thought it would be interesting (?) to code this experiment with clojurescript.
